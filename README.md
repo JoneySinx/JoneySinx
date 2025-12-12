@@ -1,49 +1,61 @@
-<h1 align="center">Hi 👋, I'm SPYDER</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+</div>
+
+---
+
+### ⚙️ What I Love Building
+
+- 🔐 VIP-only **Telegram bots** with dual MongoDB, clone feature, and smart indexing  
+- 🚀 High-performance **microservices** deployed on **Koyeb** and Dockerized setups  
+- 💳 **UPI / payment-based access systems** for 50–60 premium users  
+- 📈 Monitoring, logs, and analytics for bots so they never silently fail  
+
+---
+
+### 🛠️ Tech Stack (Icons)
 
 <p align="center">
-  <a href="https://github.com/joneysinx">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,nodejs,go,ts" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=fastapi,django,express" />
+  <br/>
+  <!-- DB / DevOps -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,githubactions,linux" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Telegram Bots, Backend Services, and Automation Tools**
-- 🌱 I’m currently learning **Go, Node.js, and scalable backend architectures**
-- 💬 Ask me about **Python, Telegram Bots, APIs, MongoDB, Koyeb deployment**
-- ⚡ Fun fact: **I love building ultra-advanced, high-performance bots for VIP users**
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Python, JavaScript/Node.js, Go, TypeScript  
-- **Backend:** FastAPI, Django/DRF, Express.js, Fiber  
-- **Databases:** MongoDB, PostgreSQL, Redis  
-- **DevOps & Cloud:** Koyeb, Docker, GitHub Actions, Render, Railway  
-- **Others:** REST APIs, Webhooks, UPI/payment integration, Telegram Bot API  
-
----
-
-### 📊 GitHub Stats
+### 📊 Live GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joneysinx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneysinx&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joneysinx&theme=radical" />
 </p>
+
+<!-- Optional: अगर बाद में WakaTime use करो -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical" />
+</p>
+-->
 
 ---
 
-### 🤝 Connect With Me
+### 🧠 Current Focus
 
-<p>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">Telegram</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
-  <a href="https://your-portfolio-url.com">Portfolio</a>
-</p>
+- ⚡ Zero-downtime auto-filter bots with blazing fast search  
+- 🧩 Clean architecture: services, repositories, and background workers  
+- 🧪 Load testing, performance tuning, and Koyeb-friendly optimizations  
+
+---
+
+### 🐍 Contribution Snake Animation
+
+> इसको चलाने के लिए पहले `Platane/snk` या marketplace वाली snake-action से GitHub Action सेट करना पड़ेगा, फिर नीचे वाला block काम करेगा।[web:47][web:61]
+> 
